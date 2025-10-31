@@ -14,5 +14,5 @@ The program also dynamically adapts to learn from new input and optionally store
 2. Open in VS Code
 
 3. Run this command in terminal:
-python predictive_text_generator.py
+python task1.py
 4. Type sentences like I love or Python is to get suggestions
